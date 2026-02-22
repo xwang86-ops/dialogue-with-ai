@@ -1,3 +1,5 @@
+https://smellylunchbox.com/wp-content/uploads/2023/09/lotusrootporksoup-1500x1000.webp
+
 # 🟡Manifesto 1.0
 ### During the winter break, upon returning home, my grandmother made me my favorite dish — pork rib and lotus root soup. It’s a classic taste from my hometown in Hubei, where the land is nourished by abundant waters and lotus roots grow endlessly. Since childhood, the flavor of my grandmother’s cooking has accompanied me through the years, etched deeply into my memory. Yet this time, I keenly sensed that the taste of the soup had changed. I suddenly realized that at eighty years old, my grandmother’s memory is fading with time — even the muscle memory of cooking, once instinctive, is beginning to erode. The “taste of home” I remembered is gradually dissolving along with her forgetting.
 ### This taste cannot be captured by language; it is an embodied memory, deeply rooted in perception and emotion. It led me to wonder: could AI ever become an extension of the human mind, capable of preserving memories that cannot be physically stored? Could it help us articulate those ineffable bodily sensations and emotional currents?
