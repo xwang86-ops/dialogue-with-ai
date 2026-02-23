@@ -29,7 +29,7 @@ Our language is a sequence of symbols arranged in a before-and-after order. When
 🔹Iuput the description of pork rib and lotus root soup in the manifesto 1.0.
 🔹Ask ChatGPT enrich the paragraph’s descriptions of sensory details (such as smell and flavor).
 🔹Ask ChatGPT reduce descriptions of other aspects of the dish (such as its appearance, ingredients, or origin).
-🔹Repeat the above steps until the paragraph contains only descriptions of the dish’s smell.
+~~🔹Repeat the above steps until the paragraph contains only descriptions of the dish’s smell.~~
 🔹Refine and condense the description of the dish’s smell to no more than 30 tokens.
 🔹Start a new round of conversation to test whether ChatGPT can identify the dish based on this smell description. If it cannot, return to step one and start over.
 
