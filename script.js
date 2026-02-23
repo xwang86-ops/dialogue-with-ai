@@ -4,6 +4,10 @@
   const checkBtn = document.getElementById('check');
   const revealBtn = document.getElementById('reveal');
   const result = document.getElementById('result');
+  const smellTextEl = document.getElementById('smellText');
+  const useHintBtn = document.getElementById('useHint');
+  const resetHintBtn = document.getElementById('resetHint');
+  const condensedTextEl = document.getElementById('condensedText');
   
   const successMessages = [
     '✓ Plausible — you caught the savory essence.',
@@ -35,4 +39,20 @@
   guessInput.addEventListener('keypress', (e) => {
     if(e.key === 'Enter') checkBtn.click();
   });
+
+  // Smell Language Game: swap quiz hint with condensed smell phrase
+  if(useHintBtn && condensedTextEl && smellTextEl) {
+    useHintBtn.addEventListener('click', () => {
+      smellTextEl.textContent = condensedTextEl.textContent;
+      result.textContent = '';
+    });
+  }
+
+  if(resetHintBtn && smellTextEl) {
+    const original = 'Sweet-brothy pork, warm lotus, slow bone musk, faint ginger.';
+    resetHintBtn.addEventListener('click', () => {
+      smellTextEl.textContent = original;
+      result.textContent = '';
+    });
+  }
 })();

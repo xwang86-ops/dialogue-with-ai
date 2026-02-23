@@ -8,10 +8,10 @@
 </head>
 <body>
   <div class="hero">
-    <img src="https://smellylunchbox.com/wp-content/uploads/2023/09/lotusrootporksoup-1500x1000.webp" alt="Pork rib and lotus root soup" class="hero-image" />
+    <img src="lotusrootporksoup-1500x1000.webp" alt="Pork rib and lotus root soup" class="hero-image" />
     <div class="hero-overlay">
-      <h1>On Smell</h1>
-      <p class="tag">Exploring olfactory language, memory, and description</p>
+      <h1 style="color: var(--warm-gold); text-shadow: 1px 1px 8px var(--deep-brown);">On Smell & LLMs: The Language Game of Odors</h1>
+      <p class="tag" style="color: var(--earth-brown); background: var(--soft-gold); padding: 0.5em 1em; border-radius: 8px;">LLMs, smell, language games, memory, and inclusivity — Manifesto 1.0 & 2.0</p>
     </div>
   </div>
 
@@ -22,14 +22,17 @@
     </section>
 
     <section id="manifesto">
-      <h2>Manifesto (excerpt)</h2>
-        <p><strong>🟡 Manifesto 1.0</strong></p>
-        <p>During the winter break, upon returning home, my grandmother made me my favorite dish — pork rib and lotus root soup. It's a classic taste from my hometown in Hubei, where the land is nourished by abundant waters and lotus roots grow endlessly. Since childhood, the flavor of my grandmother's cooking has accompanied me through the years, etched deeply into my memory. Yet this time, I keenly sensed that the taste of the soup had changed.</p>
-        
-        <p>This taste cannot be captured by language; it is an embodied memory, deeply rooted in perception and emotion. It led me to wonder: could AI ever become an extension of the human mind, capable of preserving memories that cannot be physically stored? Could it help us articulate those ineffable bodily sensations and emotional currents?</p>
-        
-        <p>As a sensory experience that remains largely "undigitized," smell has been marginalized in our visually dominated, information-driven era. The suppression of non-visual senses and the exclusion of non-dominant communities have created deep epistemic biases. In an ideal world, I hope that future AI systems can grow more inclusive — embracing the people, perceptions, memories, and emotions that have long been left outside the arc of technological evolution.</p>
-      </div>
+      <h2 style="color: var(--warm-gold);">Manifesto Highlights</h2>
+        <div class="manifesto-block" style="background: var(--soft-gold); border-left: 6px solid var(--warm-gold); padding: 1em; margin-bottom: 1em;">
+          <p><strong>🟡 Manifesto 1.0</strong></p>
+          <p>During a winter break, my grandmother made my favorite dish — pork rib and lotus root soup. It is a classic taste from my hometown in Hubei, carried through my childhood and deeply etched into memory. At eighty, my grandmother's memory is fading; even the muscle memory of cooking is eroding. The "taste of home" I remember is slowly dissolving with her forgetting.</p>
+          <p>This taste resists easy description; it is an embodied memory rooted in perception and emotion. It raised a question: could AI become an extension of the human mind, preserving memories that cannot be physically stored? Could it help articulate those ineffable bodily sensations and emotional currents?</p>
+        </div>
+        <div class="manifesto-block" style="background: var(--soft-sage); border-left: 6px solid var(--sage-green); padding: 1em; margin-bottom: 1em;">
+          <p><strong>Manifesto 2.0</strong></p>
+          <p>Contemporary research often concludes that olfactory language is declining, but much of that evidence comes from WEIRD populations. In contrast, less industrialized groups like the Maniq and Jahai retain complex, abstract olfactory vocabularies that guide daily life. Smell, as an as-yet "undigitized" sense, has been marginalized in our visually dominated information society. The suppression of non-visual senses and exclusion of non-dominant communities creates deep epistemic biases. Manifesto 2.0 proposes reintroducing smell-description into language games so AI can become more inclusive of people, perceptions, memories, and emotions traditionally left out.</p>
+        </div>
+        <p>As a sensory experience that remains largely "undigitized," smell has been marginalized in our visually dominated, information-driven era. The suppression of non-visual senses and the exclusion of non-dominant communities have created deep epistemic biases. In an ideal world, future AI systems would grow more inclusive — embracing the people, perceptions, memories, and emotions that have long been left outside the arc of technological evolution.</p>
     </section>
 
     <section id="snippets">
@@ -54,6 +57,18 @@
       <p id="result" aria-live="polite"></p>
     </section>
 
+    <section id="smell-game">
+      <h2>Smell Language Game</h2>
+      <p>This interactive exercise follows the manifesto's language-game steps: start with the full description, refine sensory details, then compress to a smell-only phrase under 30 tokens. Use the controls below to swap the quiz hint with a condensed smell description.</p>
+      <p><strong>Original excerpt:</strong></p>
+      <blockquote id="originalText">During the winter break, my grandmother made me my favorite dish — pork rib and lotus root soup, a warm, brothy comfort with subtle ginger and slow-cooked bone sweetness.</blockquote>
+      <div class="button-group">
+        <button id="useHint">Use condensed smell hint</button>
+        <button id="resetHint">Reset hint</button>
+      </div>
+      <p class="note">Condensed smell hint (≤30 tokens): <em id="condensedText">Sweet-brothy pork; warm lotus root; slow bone musk; faint ginger.</em></p>
+    </section>
+
     <section id="notes">
       <h2>Notes</h2>
       <p>This site is based on research into how different languages and cultures encode smell—from the rich olfactory vocabularies of Southeast Asian communities like the Jahai and Maniq peoples, to the sensory language losing ground in industrialized societies. Explore how smell-based language games can help us recover and preserve these irreplaceable dimensions of human perception.</p>
@@ -62,6 +77,7 @@
   </main>
 
   <footer>
+    <img src="ai-smell.png" alt="AI Smell Illustration" class="footer-image" />
     <small>On Smell: A Manifesto for Olfactory Preservation & AI Inclusivity</small>
   </footer>
 

@@ -222,6 +222,15 @@ footer small {
 	font-weight: 500;
 }
 
+.footer-image {
+	display: block;
+	margin: 0.6rem auto 0.8rem auto;
+	max-width: 360px;
+	width: 80%;
+	border-radius: 8px;
+	box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
 @media (min-width: 600px) {
 	.hero {
 		height: 380px;
