@@ -3,9 +3,12 @@ https://smellylunchbox.com/wp-content/uploads/2023/09/lotusrootporksoup-1500x100
 # 🟡Manifesto 1.0
 ### During the winter break, upon returning home, my grandmother made me my favorite dish — pork rib and lotus root soup. It’s a classic taste from my hometown in Hubei, where the land is nourished by abundant waters and lotus roots grow endlessly. Since childhood, the flavor of my grandmother’s cooking has accompanied me through the years, etched deeply into my memory. Yet this time, I keenly sensed that the taste of the soup had changed. I suddenly realized that at eighty years old, my grandmother’s memory is fading with time — even the muscle memory of cooking, once instinctive, is beginning to erode. The “taste of home” I remembered is gradually dissolving along with her forgetting.
 ### This taste cannot be captured by language; it is an embodied memory, deeply rooted in perception and emotion. It led me to wonder: could AI ever become an extension of the human mind, capable of preserving memories that cannot be physically stored? Could it help us articulate those ineffable bodily sensations and emotional currents?
+
 https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5wl9E3LYm4-BCM740G7Oow.png
+
 ### This reflection reminded me of earlier research: modern society generally believes that the human sense of smell is undergoing irreversible decline, accompanied by a loss in our linguistic ability to describe scents. Yet such conclusions are mostly drawn from “WEIRD” populations — Western, Educated, Industrialized, Rich, and Democratic. In contrast, among less industrialized groups such as the Maniq and Jahai peoples of Southeast Asia, complex olfactory vocabularies still thrive and guide daily life.
 ### As a sensory experience that remains largely “undigitized,” smell has been marginalized in our visually dominated, information-driven era. The suppression of non-visual senses and the exclusion of non-dominant communities have created deep epistemic biases. In an ideal world, even in the face of structural limitations, I hope that future AI systems can grow more inclusive — embracing the people, perceptions, memories, and emotions that have long been left outside the arc of technological evolution.
+
 https://ichef.bbci.co.uk/images/ic/1008x567/p06skbnr.jpg
 
 > Breakdown and distillation of Manifesto 1.0
@@ -20,11 +23,14 @@ https://ichef.bbci.co.uk/images/ic/1008x567/p06skbnr.jpg
 ## 🔹logical space
 ### “The fact is in logical space the existence of states of affairs.”——Ludwig Wittgenstein, Tractatus Logico‑Philosophicus
 Our language is a sequence of symbols arranged in a before-and-after order. When it is written down, time is transformed into spatiality, and when it is read, that spatiality is converted back into temporality. Therefore, our existing forms of language are fixed within time; spacetime is the very precondition of their existence.
+
 ## 🔹enbedding space
 #### LLM: Large Language Models generate text probabilistically，a token's position in embedding space encodes its relationships within semantic space.
 
 ### In my Manifesto 1, I envisioned future AI becoming more inclusive—embracing those excluded people, perceptions, memories, and emotions. I refine this vision here by focusing on the linguistic encoding of smell: contrasting Wittgenstein's logical space with the embedding space of large language models, we can understand smell as a "compressed logical space," and olfactory aphasia as the "loss of a language game." This stems from sociopolitical power dynamics—where statistically dominant languages and senses prevail—biases that extend into AI training data. In Manifesto 2, I propose countering this compression by reintroducing smell-description into language games.
+
 https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9cPUpAmAjJb2XGXzSmUpWQ.jpeg
+
 **STEP**
 🔹Iuput the description of pork rib and lotus root soup in the manifesto 1.0.
 🔹Ask ChatGPT enrich the paragraph’s descriptions of sensory details (such as smell and flavor).
@@ -43,6 +49,7 @@ cŋəs / cŋɛs: Gasoline, smoke, bat guano and bat caves, certain millipedes, w
 ltpɨt / tpɨt: Certain ripe fruits and flowers, durian, pandan, soap, perfume.
 pʔus: Musty smell, like spoiled food, mushrooms, old dwellings.
 cŋəs (another usage): Sweet smell, like flowers.
+
 Unnumbered but typical: Directly fire-roasted food (often meat, like BBQ); pungent smell (irritates throat, causes tears); rotten smell; damp and moldy smell; fresh blood vs. old blood.
 
 Maniq Language Olfactory Vocabulary Examples
@@ -50,6 +57,7 @@ Maniq has at least 15 abstract olfactory expressions, including nouns and stativ
 hamis: Sun smell, also referring to air under sunlight or smoke (prototype as a dangerous smell).
 Unnamed but typical: Wild yams, mushrooms, water, soil, boiled yam mud, dirty clothes, rotten bamboo, beans, sweat, urine, old sheds smell categories.
 Overall feature: Such as "edible things smell" or "pleasant things smell," which can cover multiple sources like rotten wood, mushrooms, or soil.
+
 https://i0.wp.com/cultureandcognitionreadinggroup.wordpress.com/wp-content/uploads/2018/08/maniq-smell-terms1.png?fit=1200%2C508&ssl=1
 
 ## 🔹Sissel Tolaas-NASALO
@@ -67,6 +75,7 @@ NASALO is a "smell alphabet" created by Tolaas after 20 years of experiments, wi
 | SPIIFI      | Active; powerful; expressive; persuasive researchcatalogue​     |
 | SQAHA       | Cooked food researchcatalogue​                                  |
 | SGAHA       | Burnt gunpowder; fireworks; corrosive smell researchcatalogue​  |
+
 https://media.researchcatalogue.net/rc/cache/70/44/66/69/704466696457928e8ce9138d69080410.png?t=5948af000c225249efd3d740fb9c1664&e=1771878600
 
 ## 🔹Chinese
@@ -82,10 +91,12 @@ Perceptual dimensions: Pleasantness + intensity, divided into sweet-fragrant, di
 Metaphorical extension: "Flavor" (gunpowder flavor = tension) borrows smell to metaphorize abstract traits.
 
 Compared to Jahai/Maniq's 12+ abstract smell words or NASALO's objective labels, Chinese is more poetic but less precise, suited for literary layering (e.g., "fermented tofu broth's subtle mustiness"), reflecting agricultural culture's prioritization of vision/taste.
+
 https://i.ytimg.com/vi/o1JNY9Tya68/maxresdefault.jpg
 
 ## 🔹perfumery, coffee, and wine industries
 use specialized Flavor/Perfumery Wheels and layered fragrance systems to transform complex olfactory experiences into standardized, multidimensional language. The Flavor/Perfumery Wheel serves as an industry-standard circular classification tool for scents, emphasizing continuous transitions and family relationships between fragrance families. In contrast, the Fragrance Pyramid (layered fragrance system) is a pyramid structure built on temporal volatility, describing the evolution of a single perfume's scent over time.
 
 Professional scent wheels and fragrance pyramid systems have limitations, mainly in positive bias (favoring pleasant smells), cultural narrowness, and lack of abstraction, failing to cover the full spectrum of everyday smells.
+
 https://d3vawd8bbgt5rs.cloudfront.net/wp-content/uploads/2024/06/fragrance-wheel-banner.jpg
